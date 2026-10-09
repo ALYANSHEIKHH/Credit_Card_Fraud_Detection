@@ -18,3 +18,8 @@ python-multipart
 uvicorn
 jinja2
 imblearn
+statsmodels
+optuna 
+catboost
+xgboost
+lightgbm
